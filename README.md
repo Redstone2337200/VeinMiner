@@ -7,3 +7,6 @@ This is a plug-in of the new generation chain collection 19 series, which suppor
 # More Information
 Chain collection
 -A new generation of nineteenth series chain acquisition, suitable for 1.19.60.
+
+### Contact information
+
