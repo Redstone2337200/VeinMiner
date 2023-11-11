@@ -1,0 +1,57 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"天揭君"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.3.1"
+			],
+			"dash": [
+				"0.9.26"
+			]
+		}
+	},
+	"header": {
+		"description": "连锁采集20，适配1.20.30+",
+		"name": "连锁采集20",
+		"uuid": "06a26e4e-eaeb-d113-9ac3-7ee7af4e449b",
+		"version": [0,0,2],
+		"min_engine_version": [1,20,30]
+	},
+	"modules": [
+		{
+        "description": "连锁采集20",
+        "type": "data",
+        "uuid": "faf4328e-50d5-251f-c0aa-54f81cf48b31",
+        "version": [0, 0, 2]
+      },
+      {
+        "description": "连锁采集20脚本模块",
+        "language": "javascript",
+        "type": "script",
+        "uuid": "be7128be-c732-65eb-5c26-54021eea1c75",
+        "version": [0, 0, 2],
+        "entry": "scripts/main.js"
+      }
+	],
+	"dependencies": [
+		{
+            "module_name": "@minecraft/server-ui",
+            "version": "1.2.0-beta"
+        },
+        {
+        "module_name": "@minecraft/server",
+        "version": "1.8.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-gametest",
+            "version": "1.0.0-beta"
+        },
+        {
+            "uuid": "a950f6e9-55a3-475a-ac56-4a8303c04ec3",
+		    "version": [ 0, 0, 2 ]
+        }
+	]
+}
