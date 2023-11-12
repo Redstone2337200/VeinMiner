@@ -1,0 +1,29 @@
+#远古残骸
+
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~-1 ~-1 ancient_debris 0 run setblock ~-1 ~-1 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~-1 ~0 ancient_debris 0 run setblock ~-1 ~-1 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~-1 ~1 ancient_debris 0 run setblock ~-1 ~-1 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~0 ~-1 ancient_debris 0 run setblock ~-1 ~0 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~0 ~0 ancient_debris 0 run setblock ~-1 ~0 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~0 ~1 ancient_debris 0 run setblock ~-1 ~0 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~1 ~-1 ancient_debris 0 run setblock ~-1 ~1 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~1 ~0 ancient_debris 0 run setblock ~-1 ~1 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~-1 ~1 ~1 ancient_debris 0 run setblock ~-1 ~1 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~-1 ~-1 ancient_debris 0 run setblock ~0 ~-1 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~-1 ~0 ancient_debris 0 run setblock ~0 ~-1 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~-1 ~1 ancient_debris 0 run setblock ~0 ~-1 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~0 ~-1 ancient_debris 0 run setblock ~0 ~0 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~0 ~0 ancient_debris 0 run setblock ~0 ~0 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~0 ~1 ancient_debris 0 run setblock ~0 ~0 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~1 ~-1 ancient_debris 0 run setblock ~0 ~1 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~1 ~0 ancient_debris 0 run setblock ~0 ~1 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~0 ~1 ~1 ancient_debris 0 run setblock ~0 ~1 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~-1 ~-1 ancient_debris 0 run setblock ~1 ~-1 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~-1 ~0 ancient_debris 0 run setblock ~1 ~-1 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~-1 ~1 ancient_debris 0 run setblock ~1 ~-1 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~0 ~-1 ancient_debris 0 run setblock ~1 ~0 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~0 ~0 ancient_debris 0 run setblock ~1 ~0 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~0 ~1 ancient_debris 0 run setblock ~1 ~0 ~1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~1 ~-1 ancient_debris 0 run setblock ~1 ~1 ~-1 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~1 ~0 ancient_debris 0 run setblock ~1 ~1 ~0 air 0 destroy
+execute as @e[type=item,name="远古残骸"] at @s if block ~1 ~1 ~1 ancient_debris 0 run setblock ~1 ~1 ~1 air 0 destroy
