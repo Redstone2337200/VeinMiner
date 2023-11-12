@@ -1,1 +1,23 @@
+cg.txt.tip1 = §e[§aM§bV§dP§6+§e]§f连锁采集8.0正式版>>§3GameTest框架更名为游戏测试API
+
+cg.txt.tip2 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer help”可以查看插件帮助
+
+cg.txt.tip3 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer load”可以进行数据包的重新加载
+
+cg.txt.tip4 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer on all”可开启连锁采集的全部连锁功能
+
+cg.txt.tip5 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer off all”可关闭连锁采集的全部连锁功能
+
+cg.txt.tip6 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer on ore”可开启连锁采集的矿石连锁功能
+
+cg.txt.tip7 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer off ore”可关闭连锁采集的矿石连锁功能
+
+cg.txt.tip8 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer on log”可开启连锁采集的木头连锁功能
+
+cg.txt.tip9 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3聊天栏输出“#veinminer off log”可关闭连锁采集的木头连锁功能
+
+cg.txt.tip10 = §e[§aM§bV§dP§6+§e]§f天揭君>>§3但是这一点很重要！§4注意！在使用本游戏测试API模组的时候，一定要打开实验玩法里的全部功能，不然无法正常运行。
+
+
+
 
