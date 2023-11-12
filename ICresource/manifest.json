@@ -1,1 +1,42 @@
-
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"天揭君"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.3.1"
+			],
+			"dash": [
+				"0.9.26"
+			]
+		}
+	},
+	"header": {
+		"name": "连锁采集19.1",
+		"description": "连锁采集19.1图标资源，适配1.19.60+",
+		"min_engine_version": [
+			1,
+			19,
+			61
+		],
+		"uuid": "a950f6e9-55a3-475a-ac56-4a8303c04ec3",
+		"version": [
+			0,
+			0,
+			2
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "82bff47e-572c-4034-bc24-fa9b6bb35b86",
+			"version": [
+				0,
+				0,
+				2
+			]
+		}
+	]
+}
