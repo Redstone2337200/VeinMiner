@@ -17,3 +17,8 @@ Notice! When using this chain acquisition plug-in, please select the internation
 
 ## Introduction
 The current plug-in is the 0.0.2 beta of Chained Acquisition 19.1.This plug-in also adds some functionality for imitating commands.The "#" + key character can be used to activate the corresponding command effect.The specific keyword usage method will appear when Wangjia loads the plug-in. At this time, you need to open the chat bar to see it.
+
+## Source Code Library
+[V19](https://github.com/Redstone2337200/VeinMiner/tree/V19)
+[V20](https://github.com/Redstone2337200/VeinMiner/tree/v20)
+<div>You can go to version 19 <a href="https://github.com/Redstone2337200/VeinMiner/tree/V19">here</a>, or you can go to version 20 <a href="https://github.com/Redstone2337200/VeinMiner/tree/v20">here</a>.</div>
