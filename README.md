@@ -5,11 +5,12 @@ Build a new set of chain collection plug-ins in the international version.
 This is a new generation of chain acquisition plug-in, adding scripts, supporting international 1.20.50, fixing some bugs, adding some bugs, adding some special functions, and more custom chat bar instructions.
 
 # More Information
-Chain collection
+>Chain collection
 -A new generation of nineteenth series chain acquisition, suitable for 1.19.60.
--
+-The new generation of 20 series interlocking acquisition plug-ins supports the international version 1.20.50.
 
 ### Contact information
+>About
 QQ：3356168312 <br>
 We：RTX-Redstone233
 
