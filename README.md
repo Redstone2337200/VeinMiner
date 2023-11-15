@@ -7,6 +7,7 @@ This is a new generation of chain acquisition plug-in, adding scripts, supportin
 # More Information
 Chain collection
 -A new generation of nineteenth series chain acquisition, suitable for 1.19.60.
+-
 
 ### Contact information
 QQ：3356168312 <br>
