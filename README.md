@@ -1,8 +1,8 @@
 # VeinMiner
-Build a new series of plug-ins for chain acquisition.
+Build a new set of chain collection plug-ins in the international version.
 
 ### About Plug-in
-This is a plug-in of the new generation chain collection 19 series, which supports the latest international version 1.19.60，In this, you will see the script code of the new series and the interlocking functions of the new series.
+This is a new generation of chain acquisition plug-in, adding scripts, supporting international 1.20.50, fixing some bugs, adding some bugs, adding some special functions, and more custom chat bar instructions.
 
 # More Information
 Chain collection
