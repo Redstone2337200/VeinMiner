@@ -10,12 +10,11 @@ Chain collection
 - The new generation of 20 series interlocking acquisition plug-ins supports the international version 1.20.50.
 
 ### Contact information
->About <br>
-QQ：3356168312 <br>
+>QQ：3356168312 <br>
 We：RTX-Redstone233
 
 # Important Information
-Notice! When using this chain acquisition plug-in, please select the international version above 1.19.60 to use. You need to open all the functions in the experimental play method to use this plug-in.
+Notice!  If you use this plug-in version of the 19 series, then please use the 1.19.60 and above version to use, if you use this plug-in version of the 20 series, 请使用1.20 the.50 version to run, pay attention to the experimental, play in the game test API must be opened, otherwise the script can not run normally, or can not be built normally.
 
 ## Introduction
 The current plug-in is the 0.0.2 beta of Chained Acquisition 19.1.This plug-in also adds some functionality for imitating commands.The "#" + key character can be used to activate the corresponding command effect.The specific keyword usage method will appear when Wangjia loads the plug-in. At this time, you need to open the chat bar to see it.
