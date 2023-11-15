@@ -14,7 +14,7 @@ Chain collection
 We：RTX-Redstone233
 
 # Important Information
-Notice!  If you use this plug-in version of the 19 series, then please use the 1.19.60 and above version to use, if you use this plug-in version of the 20 series, 请使用1.20 the.50 version to run, pay attention to the experimental, play in the game test API must be opened, otherwise the script can not run normally, or can not be built normally.
+Notice!  If you use the plug-in version of the 19 series, please use the 1.19.60 and above version to run, if you use the plug-in of the 20 series, 仅使用1.20 the.50 and above version to run, and need to open the game test API function in the experimental play method to prevent the script from not being built properly. Plug-ins that support the official version will be updated later.
 
 ## Introduction
 The current plug-in is the 0.0.2 beta of Chained Acquisition 19.1.This plug-in also adds some functionality for imitating commands.The "#" + key character can be used to activate the corresponding command effect.The specific keyword usage method will appear when Wangjia loads the plug-in. At this time, you need to open the chat bar to see it.
